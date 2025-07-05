@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/proshir/Desktop/ProjCPP/chatroom/client/src/main.cpp
+client.hpp
+/home/proshir/Desktop/ProjCPP/chatroom/client/src/client.hpp
+signal.h
+/home/proshir/Desktop/ProjCPP/chatroom/client/src/signal.h
+
+headers/client.hpp
+iostream
+headers/iostream
+sys/types.h
+-
+sys/socket.h
+-
+mutex
+-
+unistd.h
+-
+thread
+-
+netinet/in.h
+-
+

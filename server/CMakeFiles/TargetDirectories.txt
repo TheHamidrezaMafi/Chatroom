@@ -1,0 +1,3 @@
+/home/hamidreza/Desktop/chatroom/server/CMakeFiles/server.dir
+/home/hamidreza/Desktop/chatroom/server/CMakeFiles/edit_cache.dir
+/home/hamidreza/Desktop/chatroom/server/CMakeFiles/rebuild_cache.dir
